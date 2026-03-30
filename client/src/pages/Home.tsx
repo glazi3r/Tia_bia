@@ -330,7 +330,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-[#1A1A1A]">Telefone</h4>
-                    <p className="text-[#6B7280]">(11) 3274-5952 / (11) 98876-5172</p>
+                    <p className="text-[#6B7280]">(11) 98887-5512</p>
                   </div>
                 </div>
 
